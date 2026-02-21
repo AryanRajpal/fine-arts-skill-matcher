@@ -1,2 +1,9 @@
-# fine-arts-skill-matcher
-A structured matching platform for fine arts professionals and organizations based on skills and role fit.
+# Fine Arts Skill Matcher
+
+A web app where fine arts professionals create skill-based profiles and organizations post opportunities with required skills.
+The app matches opportunities to profiles (and vice versa) using overlapping skills as a baseline.
+
+## MVP (v0)
+- Create a profile with skill tags
+- Create an opportunity with required skill tags
+- View matches sorted by skill overlap

@@ -24,6 +24,12 @@ export default function RootLayout({
 
               <div className="flex items-center gap-4 text-sm">
                 <Link
+                  href="/"
+                  className="hover:underline underline-offset-4"
+                >
+                  Home
+                </Link>
+                <Link
                   href="/profile"
                   className="hover:underline underline-offset-4"
                 >
